@@ -1,10 +1,3 @@
-# Códigos-em-C - Feitos por mim (para estudo)
-
-## FASE 1 - Printf e Scanf (Somente)
-<img src="https://img.shields.io/badge/FEITO NO-%2BEMBARCADEIRO-red">
-
-### 1-) Nome e idade.
- 
 ```c
 #include <stdio.h>
 	
@@ -24,7 +17,6 @@ int main() {
 }
 ```
 
-### 2-) Soma, subtração e multiplicação de números inteiros.
 
 ```c
 #include <stdio.h>
@@ -50,7 +42,6 @@ int main() {
 }
 ```
 
-### 3-) Média de 2 notas.
 
 ```c
 #include <stdio.h>
@@ -77,7 +68,6 @@ int main() {
 }
 ```
 
-### 4-) Conversão de temperatura de °C para °F.
 
 ```c
 #include <stdio.h>
@@ -96,7 +86,6 @@ int main() {
 }
 ```
 
-### 5-) Dados Pessoais.
 
 ```c
 #include <stdio.h>
@@ -121,7 +110,6 @@ int main() {
 }
 ```
 
-### 6-) Leia a idade de uma pessoa e mostre quantos anos ela tem.
 
 ```c
 #include <stdio.h>
@@ -138,7 +126,6 @@ int main() {
 }
 ```
 
-### 7-) Leia dois números inteiros e mostre a soma.
 
 ```c
 #include <stdio.h>
@@ -160,7 +147,6 @@ int main() {
 }
 ```
 
-### 8-) Leia dois números reais e mostre a média.
 
 ```c
 ##include <stdio.h>
@@ -182,7 +168,6 @@ int main() {
 }
 ```
 
-### 8-) Leia um caractere e mostre ele tela.
 
 ```c
 #include <stdio.h>
@@ -199,7 +184,6 @@ int main() {
 }
 ```
 
-### 9-) Leia um numero inteiro e mostre o antecessor e sucessor.
 
 ```c
 #include <stdio.h>
@@ -219,7 +203,6 @@ int main() {
 }
 ```
 
-### 10-) Leia um salário de um funcionário e mostre o valor com aumento de 10%.
 
 ```c
 #include <stdio.h>
@@ -238,7 +221,6 @@ int main() {
 }
 ```
 
-### 11-) Leia a largura e altura de um retângulo e mostre a área. Fórmula: área = largura * altura.
 
 ```c
 #include <stdio.h>
@@ -260,7 +242,6 @@ int main() {
 }
 ```
 
-### 12-) Leia nome do produto, preço e quantidade e mostre o nome e valor da compra.
 
 ```c
 #include <stdio.h>
@@ -287,10 +268,6 @@ int main() {
 }
 ```
 
-## FASE 2 - If, Else If, Else
-<img src="https://img.shields.io/badge/FEITO NO-%2BEMBARCADEIRO-brightgreen">
-
-### 1-) Número positivo, negativo ou zero.
 
 ```c
 #include <stdio.h>
@@ -318,7 +295,6 @@ int main() {
 }
 ```
 
-### 2-) Aprovação Escolar.
 
 ```c
 #include <stdio.h>
@@ -346,7 +322,6 @@ int main() {
 }
 ```
 
-### 3-) Maior entre 3 números.
 
 ```c
 #include <stdio.h>
@@ -384,7 +359,6 @@ int main() {
 }
 ```
 
-### 4-) Par ou ímpar.
 
 ```c
 #include <stdio.h>
@@ -409,7 +383,6 @@ int main () {
 }
 ```
 
-### 5-) Faixa Etária.
 
 ```c
 #include <stdio.h>
@@ -445,10 +418,6 @@ int main () {
 }
 ```
 
-## FASE 3 - Switch Case
-<img src="https://img.shields.io/badge/FEITO NO-%2BEMBARCADEIRO-blue">
-
-### 1-) Dias da semana.
 
 ```c
 #include <stdio.h>
@@ -498,7 +467,6 @@ int main() {
 }
 ```
 
-### 2-) Calculadora Simples.
 
 ```c
 #include <stdio.h>
@@ -556,7 +524,6 @@ int main() {
 
 ```
 
-### 3-) Menu de Lanches.
 
 ```c
 #include <stdio.h>
@@ -601,7 +568,6 @@ int main() {
 }
 ```
 
-### 4-) Meses do ano.
 
 ```c
 #include <stdio.h>
@@ -671,7 +637,6 @@ int main() {
 }
 ```
 
-### 5-) Operações Matemáticas (com sinais).
 
 ```c
 #include <stdio.h>
@@ -730,8 +695,9 @@ int main() {
 }
 ```
 
-## FASE 3 - Switch Case
-<img src="https://img.shields.io/badge/FEITO NO-%2BEMBARCADEIRO-blue">
+
+
+
 
 ```c
 #include <stdio.h>
@@ -812,6 +778,8 @@ int main() {
 ```
 ......
 
+
+	
 ```c
 #include <stdio.h>
 #include <string.h>
